@@ -46,35 +46,35 @@
 
             <!-- Facebook -->
             <span>
-                <a href="https://www.facebook.com/sharer/sharer.php?u=https://souzachristinna.github.io/mundoPetLoja/#" target="_blank" class="facebook-share" title="Compartilhe no Facebook">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://souzachristinna.github.io/myProfLandPage/#" target="_blank" class="facebook-share" title="Compartilhe no Facebook">
                     <i class="fab fa-facebook-f mb-3 mr-3 text-dark mt-1 ml-4"></i> 
                 </a>
             </span>
 
             <!-- Whatsapp -->
             <span>
-                <a href="whatsapp://send?text=https://souzachristinna.github.io/mundoPetLoja/#" target="_blank" class="Whatsapp-share" title="Compartilhe no Whatsapp">
+                <a href="whatsapp://send?text=https://souzachristinna.github.io/myProfLandPage/#" target="_blank" class="Whatsapp-share" title="Compartilhe no Whatsapp">
                     <i class="fab fa-whatsapp mb-3 mr-3 text-dark mt-1"></i>
                 </a>
             </span>
 
             <!-- Twitter -->
             <span>
-                <a href="https://twitter.com/intent/tweet?text=https://souzachristinna.github.io/mundoPetLoja/#" target="_blank" class="twitter-share" title="Compartilhe no Twitter">
+                <a href="https://twitter.com/intent/tweet?text=https://souzachristinna.github.io/myProfLandPage/#" target="_blank" class="twitter-share" title="Compartilhe no Twitter">
                     <i class="fab fa-twitter mb-3 mr-3 text-dark mt-1"></i>  
                 </a>
             </span>
                             
             <!-- Telegram -->
             <span>
-                <a href="https://t.me/share/url?url=https://souzachristinna.github.io/mundoPetLoja/#" target="_blank" class="Telegram-share" title="Compartilhe no Telegram">
+                <a href="https://t.me/share/url?url=https://souzachristinna.github.io/myProfLandPage/#" target="_blank" class="Telegram-share" title="Compartilhe no Telegram">
                     <i class="fab fa-telegram-plane mb-3 mr-3 text-dark mt-1"></i>
                 </a>
             </span>
 
             <!--Messenger-->
             <span>
-                <a href="fb-messenger://share?link=https://souzachristinna.github.io/mundoPetLoja/#" target="_blank" class="Messenger-share" title="Compartilhe no Messenger">
+                <a href="fb-messenger://share?link=https://souzachristinna.github.io/myProfLandPage/#" target="_blank" class="Messenger-share" title="Compartilhe no Messenger">
                     <i class="fab fa-facebook-messenger mb-3 mr-3 text-dark mt-1"></i>
                 </a>
             </span><br>
