@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souzachristinna/myProfLandPage.git"
+  },
   "author": "Cristina R. Souza",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "homepage": "https://souzachristinna.github.io/myProfLandPage/"
 }
+

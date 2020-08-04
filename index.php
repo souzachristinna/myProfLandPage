@@ -212,12 +212,12 @@
             <div class="row text-left">
                 <div class="col-lg-2 col-sm-12"><h5>Conquistas <br><small>aprovação em Concurso Público<small></h5></div>
                 <div class="col-lg-10 col-sm-12 text-left" style="font-size:14px;">   
-                    <p>Concuro Público Dataprev - Cargo: Gestão de TIC - 2014</p>
-                    <p>Concuro Público Agência Nacional de Recursos Hídricos - Cargo: Especialista em REcursos Hídricos - 2007</p>
-                    <p>Concuro Público Banco do Brasil - Cargo: Escriturário - 1998</p>
-                    <p>Concuro Público Caixa Economica Federal - Cargo: Escriturário - 1998</p>
-                    <p>Concuro Público Eletrosul - Cargo: Operadora de Usina Termelétrica - 1995</p>
-                    <p>Concuro Público Sargento da FAB - Comar VII - 1989</p> 
+                    <p>Concurso Público Dataprev - Cargo: Gestão de TIC - 2014</p>
+                    <p>Concurso Público Agência Nacional de Recursos Hídricos - Cargo: Especialista em REcursos Hídricos - 2007</p>
+                    <p>Concurso Público Banco do Brasil - Cargo: Escriturário - 1998</p>
+                    <p>Concurso Público Caixa Economica Federal - Cargo: Escriturário - 1998</p>
+                    <p>Concurso Público Eletrosul - Cargo: Operadora de Usina Termelétrica - 1995</p>
+                    <p>Concurso Público Sargento da FAB - Comar VII - 1989</p> 
                 </div>
             </div> <!--close row-->
     
