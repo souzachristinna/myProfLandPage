@@ -1,0 +1,55 @@
+
+
+<div class="container-fluid bg-primary mt-4" >
+    
+        <!-- Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+
+            <div class="container">
+
+                    <a class="navbar-brand h1 mb-0 text-dark" href="#">Curso</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                <div class="collapse navbar-collapse" id="navbarSite">
+                    <ul class="navbar-nav mr-auto text-secondary">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Sobre</a> </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Portfólio</a> </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Hobbies</a> </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contatos</a> </li>
+                    </ul>
+
+                    <!--Navegador para Redes Sociais-->
+                    <!--ul class="navbar-nav ml-auto">
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Social</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item "href="#">Facebook</a>
+                                <a class="dropdown-item "href="#">Instagram</a>
+                                <a class="dropdown-item "href="#">Twitter</a>
+                            </div>
+                        </li>
+
+                    </ul-->
+
+                    
+                    <!--Formulário de Busca-->
+                    <!--form class="form-inline" action="">
+
+                        <input type="search" class="form-control ml-4 mr-2" placeholder="Buscar">
+                        <button class="btn btn-secondary" type="Submit">Ok</button>
+
+
+                    </form-->
+
+                </div>
+            </div> <!--Close Container-->
+        </nav>
+
+    </div--> <!--Close Container-->
