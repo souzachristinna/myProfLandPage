@@ -1,8 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 #body {
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: #2E2E2E;
 }
 
 #hiddenA, #hiddenE{
@@ -45,7 +50,7 @@
 }
 
 #div1, #card{
-    background-color: black;
+    background-color: #2E2E2E;
     z-index: 1;
     border: none;
 }
@@ -71,9 +76,17 @@ hr{
     border-color: thistle;
 }
 
+label,
+input,
+textarea,
+button {
+    display: block;
+    width: 100%;
+}
+
 
 .label {
-    color:gray;
+    color: gray;
     padding-top:6px;
     padding-left:0;
     padding-bottom:0;
@@ -92,7 +105,7 @@ hr{
 }
 
 .input {
-    color:gray;
+    color:thistle;
     padding-top:6px;
     padding-left:0;
     padding-bottom:6px;
@@ -114,16 +127,16 @@ hr{
 
 .input::placeholder {
     color: #373737;
-    opacity: .7;
+    opacity: .3;
     font-size: small;
     padding-left: 4px;
 }
 
 .btnB{
-    background-color: #373737;
+    background-color: thistle;
     padding-top:12px;
     line-height:18px;
-    color:ivory;
+    color:gray;
     padding-left:12px;
     padding-bottom:12px;
     padding-right:12px;
@@ -150,6 +163,7 @@ hr{
     border: none;
     background: none;
 }
+
 
 
 
@@ -188,7 +202,7 @@ hr{
     font-size: 14px;
     margin-left: 0px;
     padding: 0;
-    background: #dc3545;
+    background: red;
     }
   }
 
