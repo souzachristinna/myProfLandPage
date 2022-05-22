@@ -109,6 +109,7 @@ hr{
     display: inline-block;
     margin-top:0;
     margin-bottom:12px;
+    border-radius: 8px;
 }
 
 .input::placeholder {
@@ -126,7 +127,7 @@ hr{
     padding-left:12px;
     padding-bottom:12px;
     padding-right:12px;
-    border-radius:20px;
+    border-radius:8px;
     font-family:Arial;
     border:0;
     display:inline-block;
@@ -247,7 +248,3 @@ li{
     outline-width: 0;
     border-radius: 50%;
 }
-
-
-
-
